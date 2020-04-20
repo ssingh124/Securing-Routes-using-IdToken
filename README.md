@@ -10,6 +10,6 @@ To Test this concept install modHeader, a google chrome extension to pass Id tok
 https://developers.google.com/oauthplayground/In mod Heafer extension add Autherization  bearer and your_id_token.  (You can get you id token from )
 
 
-Install these paskages as well:
-npm install jsonwebtoken --save
-npm install jwk-to-pem --save
+# Install these paskages as well:
+# npm install jsonwebtoken --save
+# npm install jwk-to-pem --save
